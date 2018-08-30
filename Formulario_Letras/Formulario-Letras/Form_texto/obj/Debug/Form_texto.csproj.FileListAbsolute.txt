@@ -1,0 +1,55 @@
+E:\TERCER CUATRIMESTRE\DESARROLLO DE APLICACIONES\PRODUCTOS\PRODUCTO 4\Form_texto\Form_texto\bin\Debug\Form_texto.exe.config
+E:\TERCER CUATRIMESTRE\DESARROLLO DE APLICACIONES\PRODUCTOS\PRODUCTO 4\Form_texto\Form_texto\bin\Debug\Form_texto.exe
+E:\TERCER CUATRIMESTRE\DESARROLLO DE APLICACIONES\PRODUCTOS\PRODUCTO 4\Form_texto\Form_texto\bin\Debug\Form_texto.pdb
+E:\TERCER CUATRIMESTRE\DESARROLLO DE APLICACIONES\PRODUCTOS\PRODUCTO 4\Form_texto\Form_texto\obj\Debug\Form_texto.csprojAssemblyReference.cache
+E:\TERCER CUATRIMESTRE\DESARROLLO DE APLICACIONES\PRODUCTOS\PRODUCTO 4\Form_texto\Form_texto\obj\Debug\Form_texto.Form1.resources
+E:\TERCER CUATRIMESTRE\DESARROLLO DE APLICACIONES\PRODUCTOS\PRODUCTO 4\Form_texto\Form_texto\obj\Debug\Form_texto.frmObtener_Letras.resources
+E:\TERCER CUATRIMESTRE\DESARROLLO DE APLICACIONES\PRODUCTOS\PRODUCTO 4\Form_texto\Form_texto\obj\Debug\Form_texto.Properties.Resources.resources
+E:\TERCER CUATRIMESTRE\DESARROLLO DE APLICACIONES\PRODUCTOS\PRODUCTO 4\Form_texto\Form_texto\obj\Debug\Form_texto.csproj.GenerateResource.cache
+E:\TERCER CUATRIMESTRE\DESARROLLO DE APLICACIONES\PRODUCTOS\PRODUCTO 4\Form_texto\Form_texto\obj\Debug\Form_texto.csproj.CoreCompileInputs.cache
+E:\TERCER CUATRIMESTRE\DESARROLLO DE APLICACIONES\PRODUCTOS\PRODUCTO 4\Form_texto\Form_texto\obj\Debug\Form_texto.exe
+E:\TERCER CUATRIMESTRE\DESARROLLO DE APLICACIONES\PRODUCTOS\PRODUCTO 4\Form_texto\Form_texto\obj\Debug\Form_texto.pdb
+E:\Form_texto\Form_texto\bin\Debug\Form_texto.exe.config
+E:\Form_texto\Form_texto\bin\Debug\Form_texto.exe
+E:\Form_texto\Form_texto\bin\Debug\Form_texto.pdb
+E:\Form_texto\Form_texto\obj\Debug\Form_texto.csprojAssemblyReference.cache
+E:\Form_texto\Form_texto\obj\Debug\Form_texto.Form1.resources
+E:\Form_texto\Form_texto\obj\Debug\Form_texto.frmObtener_Letras.resources
+E:\Form_texto\Form_texto\obj\Debug\Form_texto.Properties.Resources.resources
+E:\Form_texto\Form_texto\obj\Debug\Form_texto.csproj.GenerateResource.cache
+E:\Form_texto\Form_texto\obj\Debug\Form_texto.csproj.CoreCompileInputs.cache
+E:\Form_texto\Form_texto\obj\Debug\Form_texto.exe
+E:\Form_texto\Form_texto\obj\Debug\Form_texto.pdb
+F:\Form_texto\Form_texto\bin\Debug\Form_texto.exe.config
+F:\Form_texto\Form_texto\bin\Debug\Form_texto.exe
+F:\Form_texto\Form_texto\bin\Debug\Form_texto.pdb
+F:\Form_texto\Form_texto\obj\Debug\Form_texto.csprojAssemblyReference.cache
+F:\Form_texto\Form_texto\obj\Debug\Form_texto.Form1.resources
+F:\Form_texto\Form_texto\obj\Debug\Form_texto.frmObtener_Letras.resources
+F:\Form_texto\Form_texto\obj\Debug\Form_texto.Properties.Resources.resources
+F:\Form_texto\Form_texto\obj\Debug\Form_texto.csproj.GenerateResource.cache
+F:\Form_texto\Form_texto\obj\Debug\Form_texto.csproj.CoreCompileInputs.cache
+F:\Form_texto\Form_texto\obj\Debug\Form_texto.exe
+F:\Form_texto\Form_texto\obj\Debug\Form_texto.pdb
+C:\Users\ALEX\Downloads\Form_texto\Form_texto\bin\Debug\Form_texto.exe.config
+C:\Users\ALEX\Downloads\Form_texto\Form_texto\bin\Debug\Form_texto.exe
+C:\Users\ALEX\Downloads\Form_texto\Form_texto\bin\Debug\Form_texto.pdb
+C:\Users\ALEX\Downloads\Form_texto\Form_texto\obj\Debug\Form_texto.csprojAssemblyReference.cache
+C:\Users\ALEX\Downloads\Form_texto\Form_texto\obj\Debug\Form_texto.Form1.resources
+C:\Users\ALEX\Downloads\Form_texto\Form_texto\obj\Debug\Form_texto.frmObtener_Letras.resources
+C:\Users\ALEX\Downloads\Form_texto\Form_texto\obj\Debug\Form_texto.Properties.Resources.resources
+C:\Users\ALEX\Downloads\Form_texto\Form_texto\obj\Debug\Form_texto.csproj.GenerateResource.cache
+C:\Users\ALEX\Downloads\Form_texto\Form_texto\obj\Debug\Form_texto.csproj.CoreCompileInputs.cache
+C:\Users\ALEX\Downloads\Form_texto\Form_texto\obj\Debug\Form_texto.exe
+C:\Users\ALEX\Downloads\Form_texto\Form_texto\obj\Debug\Form_texto.pdb
+C:\Users\ALEX\Documents\Formulario_Letras\Formulario-Letras\Form_texto\bin\Debug\Form_texto.exe.config
+C:\Users\ALEX\Documents\Formulario_Letras\Formulario-Letras\Form_texto\bin\Debug\Form_texto.exe
+C:\Users\ALEX\Documents\Formulario_Letras\Formulario-Letras\Form_texto\bin\Debug\Form_texto.pdb
+C:\Users\ALEX\Documents\Formulario_Letras\Formulario-Letras\Form_texto\obj\Debug\Form_texto.csprojAssemblyReference.cache
+C:\Users\ALEX\Documents\Formulario_Letras\Formulario-Letras\Form_texto\obj\Debug\Form_texto.Form1.resources
+C:\Users\ALEX\Documents\Formulario_Letras\Formulario-Letras\Form_texto\obj\Debug\Form_texto.frmObtener_Letras.resources
+C:\Users\ALEX\Documents\Formulario_Letras\Formulario-Letras\Form_texto\obj\Debug\Form_texto.Properties.Resources.resources
+C:\Users\ALEX\Documents\Formulario_Letras\Formulario-Letras\Form_texto\obj\Debug\Form_texto.csproj.GenerateResource.cache
+C:\Users\ALEX\Documents\Formulario_Letras\Formulario-Letras\Form_texto\obj\Debug\Form_texto.csproj.CoreCompileInputs.cache
+C:\Users\ALEX\Documents\Formulario_Letras\Formulario-Letras\Form_texto\obj\Debug\Form_texto.exe
+C:\Users\ALEX\Documents\Formulario_Letras\Formulario-Letras\Form_texto\obj\Debug\Form_texto.pdb
